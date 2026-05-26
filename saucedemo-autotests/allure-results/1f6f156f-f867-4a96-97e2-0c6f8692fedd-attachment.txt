@@ -1,0 +1,1 @@
+Expected condition failed: waiting for element to be clickable: By.xpath: //button[contains(@class, 'mui-chip')][.//span[contains(@class, 'chip-label') and text()='Бренд']] (tried for 10 second(s) with 500 milliseconds interval)
